@@ -1,6 +1,6 @@
 {
   "name": "BD Passport Photo Pro",
-  "description": "A professional AI-powered tool to create Bangladeshi passport size photos with background removal, color changes, dress replacement, and face enhancement.",
+  "description": "Professional AI tool for Bangladeshi passport photos with background removal and dress change.",
   "requestFramePermissions": [
     "camera"
   ]
